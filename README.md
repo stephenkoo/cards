@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+A simple playing card app made with Elixir.
 
 ## Installation
 
